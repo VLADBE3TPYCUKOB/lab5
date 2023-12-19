@@ -1,0 +1,6 @@
+﻿  task123.cpp
+C:\Users\Kudra\Desktop\lab5\lib_shebeta\task123\task123.cpp(28,22): error C2079: "word" использует не имеющую определения структуру class "ShebetaNI_String"
+C:\Users\Kudra\Desktop\lab5\lib_shebeta\task123\task123.cpp(28,28): error C2079: "tmp" использует не имеющую определения структуру class "ShebetaNI_String"
+C:\Users\Kudra\Desktop\lab5\lib_shebeta\task123\task123.cpp(61,22): error C2079: "word" использует не имеющую определения структуру class "ShebetaNI_String"
+C:\Users\Kudra\Desktop\lab5\lib_shebeta\task123\task123.cpp(61,27): error C2440: инициализация: невозможно преобразовать "const char [5]" в "int"
+C:\Users\Kudra\Desktop\lab5\lib_shebeta\task123\task123.cpp(61,27): message : Не существует контекста, в котором такое преобразование возможно
